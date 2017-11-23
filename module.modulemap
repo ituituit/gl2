@@ -1,5 +1,5 @@
 module gl2 [system] {
     header "gl2.h"
-    link "z"
+    link "GLESv2"
     export *
 }
